@@ -1,10 +1,10 @@
 ---
 ID: 48
 post_title: Erster Schritt @ IOT-SPHERE
-author: wordpressadmin
+author: Stefan Sinegger
 post_excerpt: ""
 layout: page
-permalink: https://iot-sphere.com/home/de_DE/
+permalink: https://iot-sphere.com/site/de_DE/
 published: true
 post_date: 2017-02-04 21:26:56
 ---
