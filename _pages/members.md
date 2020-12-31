@@ -4,7 +4,8 @@ post_title: Mitglieder
 author: Stefan Sinegger
 post_excerpt: ""
 layout: page
-permalink: https://iot-sphere.com/site/members/
+permalink: >
+  https://iot-sphere.com/site/de_DE/members/
 published: true
 post_date: 2020-10-08 22:36:59
 ---

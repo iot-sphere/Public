@@ -4,7 +4,7 @@ post_title: Anmelden
 author: Stefan Sinegger
 post_excerpt: ""
 layout: page
-permalink: https://iot-sphere.com/site/login/
+permalink: https://iot-sphere.com/site/de_DE/login/
 published: true
 post_date: 2020-10-08 22:36:52
 ---
